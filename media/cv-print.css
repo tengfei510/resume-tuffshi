@@ -75,7 +75,7 @@ em {
 
 h1 {
 	font-family: "Avenir Next",sans-serif;
-	text-align: center;
+	text-align: left;
 	font-size: 50pt;
 	font-weight: lighter;
 	position: relative;
@@ -139,7 +139,7 @@ li {
 }
 
 #contact-info {
-	text-align: center;
+	text-align: left;
 	position: relative;
 	font-weight: lighter;
 	color: #ccc;
