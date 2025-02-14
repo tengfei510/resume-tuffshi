@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
+title: 石腾飞
 email: 
     url: mailto:woden@cs.cmu.edu
     text: woden@cs.cmu.edu
