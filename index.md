@@ -2,14 +2,11 @@
 layout: cv
 title: 石腾飞
 email: 
-    url: mailto:woden@cs.cmu.edu
-    text: woden@cs.cmu.edu
-homepage:
-    url: http://cs.cmu.edu/~woden
-    text: cs.cmu.edu/~woden
+    url: mailto:914672936@qq.com
+    text: 914672936@qq.com
 phone: 19928708510
 ---
-# Wode __Ni__
+## 石腾飞
 
 <!--
 include contact information from the front matter
