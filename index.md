@@ -6,7 +6,7 @@ email:
     text: 914672936@qq.com
 phone: 19928708510
 ---
-## 石腾飞
+# 石腾飞
 
 <!--
 include contact information from the front matter
@@ -17,7 +17,7 @@ Supported arguments:
 -->
 {% include cv-contact.html %}
 
-## Education
+## 求职意向
 
 ### __Carnegie Mellon University__ `2018.9 -`
 ```
