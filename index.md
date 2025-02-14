@@ -8,14 +8,52 @@ phone: 19928708510
 ---
 # ___腾飞不会飞___
 
-<!--
-include contact information from the front matter
-Supported arguments:
-    - homepage: url, text
-    - phone
-    - email
--->
-{% include cv-contact.html %}
+
+## 基本信息
+
+1. __求职岗位__：Java后台开发
+2. __从业年限__：5-10年
+3. __意向地区__：深圳/成都
+4. __在职状况__：在职
+
+
+## 教育背景
+
+### __中南大学__ 机电工程学院 `2009.09 - 2013.06`
+```
+本科, 统招
+```
+- 机电工程院
+
+### __北京大学__ `2016.9 - 2018.5`
+
+1. __技能1__：本科或以上学历，计算机软件、通讯相关专业优先
+2. __技能2__：5年以上互联网测试工作经验，1年以上Android测试或开发经验
+3. __技能3__：熟练掌握敏捷研发流程和测试用例设计方法，有探索式测试经验者优先
+4. __技能4__：掌握计算机基础知识，熟悉JAVA或Python至少一门编程语言
+5. __技能5__：熟悉Android测试工具和方法，如Android Studio、Monkey等，有Android专项测试经验优先
+6. __技能6__：学习能力强，有较强分析、定位和解决问题的能力，具有较强逻辑思维能力和表达能力
+
+### __清华大学__ `2013.9 - 2016.5`
+
+1. __技能1__：本科或以上学历，计算机软件、通讯相关专业优先
+2. __技能2__：5年以上互联网测试工作经验，1年以上Android测试或开发经验
+3. __技能3__：熟练掌握敏捷研发流程和测试用例设计方法，有探索式测试经验者优先
+4. __技能4__：掌握计算机基础知识，熟悉JAVA或Python至少一门编程语言
+5. __技能5__：熟悉Android测试工具和方法，如Android Studio、Monkey等，有Android专项测试经验优先
+6. __技能6__：学习能力强，有较强分析、定位和解决问题的能力，具有较强逻辑思维能力和表达能力
+
+## 个人项目
+
+### __GITHUB__ `2018.9 -`
+
+1. __技能1__：本科或以上学历，计算机软件、通讯相关专业优先
+2. __技能2__：5年以上互联网测试工作经验，1年以上Android测试或开发经验
+3. __技能3__：熟练掌握敏捷研发流程和测试用例设计方法，有探索式测试经验者优先
+4. __技能4__：掌握计算机基础知识，熟悉JAVA或Python至少一门编程语言
+5. __技能5__：熟悉Android测试工具和方法，如Android Studio、Monkey等，有Android专项测试经验优先
+6. __技能6__：学习能力强，有较强分析、定位和解决问题的能力，具有较强逻辑思维能力和表达能力
+
 
 ## 求职意向
 
@@ -86,7 +124,3 @@ Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
 Upsilon Pi Epsilon, Computer Science Honor Society  `Dickinson, 2016` <br>
 Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
 John Montgomery Scholarship `Dickinson, 2013` <br>
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
