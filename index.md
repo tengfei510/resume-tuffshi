@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: 腾飞不会飞的简历
+title: 腾飞不会飞
 email: 
     url: mailto:914672936@qq.com
     text: 914672936@qq.com
